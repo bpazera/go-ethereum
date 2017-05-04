@@ -26,6 +26,11 @@ or, to build the full suite of utilities:
 
     make all
 
+
+blah blah blah... under ubuntu, from repo root dir, just run: 
+    
+    ./build-tools/build-with-docker.sh
+
 ## Executables
 
 The go-ethereum project comes with several wrappers/executables found in the `cmd` directory.
